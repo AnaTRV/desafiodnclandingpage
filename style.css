@@ -1,0 +1,165 @@
+
+
+#menucapa{
+    width: 1440px;
+    height: 475px;
+    gap: 0px;
+    opacity: 0px;
+    background-color: #303030;
+
+}
+
+
+#texto1{
+    width: 1024px;
+    padding-top: 200px;
+    padding-left: 50px;
+    gap: 0px;
+    opacity: 0px;
+    font-family: 'Inter';
+    color: #F9F9F9;
+    
+}
+
+#texto2{
+    font-family: Inter;
+    font-size: 20px;
+    font-weight: 500;
+    text-align: left;
+    color: #F9F9F9;
+    padding-left: 50px;
+    line-height: 1.5;
+    }
+
+.menu2{
+    line-height: 0.1px;
+    font-weight: 300;
+    font-size: 20px;
+    margin-bottom: 0.1px;
+    
+}
+
+#menusuperior{
+    font-family: 'Inter';
+    background-color: #F9F9F9;
+    display: grid;
+    grid-auto-flow: column;
+    width: 1440px;
+    height: 229px;
+    top: -42px;
+    left: -656px;
+    gap: 0px;
+    opacity: 0px;
+    line-height: normal;
+    font-size: 15px;
+    padding-top: 70px;
+    padding-left: 50px;
+
+}
+
+#textoA{
+    width: 735px;
+    height: 161px;
+    top: 1003px;
+    left: 77px;
+    gap: 0px;
+    opacity: 0px;
+    font-family: 'Inter';
+    padding-top: 200px;
+    text-align: center;
+}
+
+#textoC{
+    font-size: 20px;
+    font-weight: 300;
+    text-align: justify;
+    padding-left: 50px;
+}
+#textoB{
+    font-family: 'Inter';
+    font-size: 20px;
+    font-weight: 300;
+    line-height: 30px;
+}
+
+#menufoto{
+    display: grid;
+    grid-auto-flow: column;
+    columns: auto;
+}
+
+#foto{
+width: 510px;
+height: 605px;
+top: 781px;
+left: 876px;
+gap: 0px;
+border-radius: 30px 0px 0px 0px;
+opacity: 0px;
+padding-top: 50px;
+
+}
+
+.formulario{
+    text-align: center;
+    background-color: #303030;
+    font-family: 'Inter';
+    color: #F9F9F9;
+    width: 1440px;
+    height: 638px;
+    top: 1478px;
+    gap: 0px;
+    opacity: 0px;
+
+
+}
+
+#tituloformulario{
+        font-size: 25px;
+        margin: 25px;
+        color: #F9F9F9;
+        top: 100px;
+        padding-top: 70px;
+       
+}
+
+#botao1{
+width: 508px;
+height: 72px;
+margin-top: 30px;
+left: 466px;
+gap: 0px;
+border-radius: 15px;
+opacity: 0px;
+color: #FFFFFF;
+
+}
+
+#botao2{
+width: 508px;
+height: 72px;
+top: 1795px;
+left: 466px;
+gap: 0px;
+border-radius: 20px;
+opacity: 0px;
+color: #FFFFFF;
+}
+
+#faleconosco{
+font-family: Arial, Helvetica, sans-serif;
+font-size: 18px;
+font-weight: 300;
+line-height: 30px;
+text-align: left;
+background:#C07212; 
+color: #ffffff;
+align-items: center;
+margin: 25px;
+border: none;
+height: 50px;
+margin-top: 30px;
+cursor: pointer;
+}
+
+
